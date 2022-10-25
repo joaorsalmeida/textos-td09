@@ -1,3 +1,4 @@
 Anotações Ruby
 
 - Ruby é uma linguagem com fortes conceitos de OO aplicados
+- Em Ruby, tudo é um objeto! Inclusive `nil`, `true` e `false`
