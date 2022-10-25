@@ -1,3 +1,4 @@
 Anotações Git
 
 - Branches são como linhas do tempo que podem acontecer de forma simultânea
+- branches = ramificações
