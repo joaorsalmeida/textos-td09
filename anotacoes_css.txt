@@ -2,3 +2,4 @@ CSS
 
 - CSS é difícil as vezes, especialmente para pessoas programadoras focadas em back-end
 - CSS evoluiu muito e hoje tem vários recursos, Sass é bem legal!
+- Seletores CSS ajudam mto nos testes com Capybara
